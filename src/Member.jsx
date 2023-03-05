@@ -7,7 +7,7 @@ export default class Member extends Component {
         <Card>
           <Card.Body>
           <div align="left">
-              <h3>สมาชิก</h3>
+              <h3>สมาชิก Project</h3>
               <h4>Kasemsan Kenutum : 65130896</h4>
               <h4>Nueochon Kaewjittawong : 65130841</h4>
               <h4>Sunthanath Poukachamnan : 65130923</h4>
